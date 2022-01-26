@@ -15,6 +15,6 @@ A vending machine management system (VMS) is needed to manage a company’s vend
 ### Note: Before you click on the play button to open the app. Please replace the path of ItemBank.txt and ItemBank.orig into 3 lines of code in the Controller class. Example below 
 ![alt text](https://github.com/vsu-se/team6_f21/blob/main/imgs/references.png) </br>
 ### Demos:
-![alt text](https://github.com/vsu-se/team6_f21/blob/main/imgs/vM1.png) </br>
-![alt text](https://github.com/vsu-se/team6_f21/blob/main/imgs/vM_2.png) </br>
-![alt text](https://github.com/vsu-se/team6_f21/blob/main/imgs/vM3.png) </br>
+![alt text](https://github.com/timphamvn33/VendingMachine/blob/Tim/team6_f21-main/imgs/vM1.png) </br>
+![alt text](https://github.com/timphamvn33/VendingMachine/blob/Tim/team6_f21-main/imgs/vM2.png) </br>
+![alt text](https://github.com/timphamvn33/VendingMachine/blob/Tim/team6_f21-main/imgs/vM3.png) </br>
