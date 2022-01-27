@@ -13,7 +13,7 @@ A vending machine management system (VMS) is needed to manage a company’s vend
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="JavaScript Logo" width="50" height="50"/><img align="left" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white"/>  <img src="https://github.com/vsu-se/team6_f21/blob/main/imgs/kisspng-javafx-scene-builder-fxml-jar-mobile-app-developme-builder-5ad89537135646.2692307815241434150792.jpg" alt="JavaScript Logo" width="50" height="50"/>
  </br> 
 ### Note: Before you click on the play button to open the app. Please replace the path of ItemBank.txt and ItemBank.orig into 3 lines of code in the Controller class. Example below 
-![alt text](https://github.com/vsu-se/team6_f21/blob/main/imgs/references.png) </br>
+![alt text](https://github.com/timphamvn33/VendingMachine/blob/Tim/team6_f21-main/imgs/references.png) </br>
 ### Demos:
 ![alt text](https://github.com/timphamvn33/VendingMachine/blob/Tim/team6_f21-main/imgs/vM1.png) </br>
 ![alt text](https://github.com/timphamvn33/VendingMachine/blob/Tim/team6_f21-main/imgs/vM2.png) </br>
